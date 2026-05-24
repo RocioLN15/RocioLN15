@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm currently studying a Master's degree in Artificial Intelligence, but I also want to keep learning other programming languages. I'll be working through different tutorials and uploading them here. This is still a work in progress, so bare with me. And of course, feel free to comment on any mistakes, I'm always open to improvement.
 
 <!--
 **RocioLN15/RocioLN15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
